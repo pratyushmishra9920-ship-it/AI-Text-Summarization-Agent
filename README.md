@@ -46,6 +46,30 @@ Designed & implemented as my first AI project after completing **Google 5-Day AI
 
 ---
 
+## 🛠 Installation
+---
+
+# Clone the repository
+git clone https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent.git
+
+# Move into project folder
+cd AI-Text-Summarization-Agent
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+## 🚀 Usage
+---
+
+# Run the notebook
+jupyter notebook capstone-project.ipynb
+
+# Or run on Kaggle → Upload `capstone-project.ipynb` and execute all cells
+# PDF output will be saved automatically
+
+---
+
 ## 📌 Future Improvements
 - Add comparison between multiple models
 - Add visualization dashboard
