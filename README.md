@@ -1,5 +1,13 @@
 # AI Text Summarization Agent
 
+![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
+![Text Summarization](https://img.shields.io/badge/Text--Summarization-green?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini--2.5--Flash-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-teal?style=for-the-badge)
+![Capstone Project](https://img.shields.io/badge/Capstone--Project-purple?style=for-the-badge)
+
 A professional multi-mode text summarization system powered by **Gemini 2.5 Flash**, capable of generating short, medium, long, bullet-style, simple, and professional summaries with **keyword extraction, sentiment detection, and a 1-line takeaway**.  
 Designed & implemented as my first AI project after completing **Google 5-Day AI Intensive — Capstone Project**.
 
