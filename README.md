@@ -4,6 +4,7 @@
   <img src="./Banner.png" alt="AI Text Summarization Agent Banner" />
 </p>
 
+![License](https://img.shields.io/badge/License-MIT-green)
 [![GitHub stars](https://img.shields.io/github/stars/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent?style=social)](https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent/stargazers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyushmishra9920-ship-it.AI-Text-Summarization-Agent)
 
