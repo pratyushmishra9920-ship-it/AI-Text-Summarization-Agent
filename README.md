@@ -16,6 +16,17 @@ Built as a real-world deliverable project during the **Google 5-Day AI Intensive
 
 ---
 
+## ✨ Features
+- Multiple summarization modes: **Short / Medium / Long / Bullets / Simple / Professional**
+- **Automated Keyword Extraction**
+- **Sentiment Analysis** (Positive / Neutral / Negative)
+- **One-Line Takeaway**
+- **Formatted PDF Export** (Layout + headings + watermark)
+- **CSV Export**
+- Fully built in **Kaggle / Jupyter Notebook** using Python & ReportLab
+
+---
+
 ## 📌 Table of Contents
 - [Features](#-features)
 - [Project Files](#-project-files)
@@ -26,17 +37,6 @@ Built as a real-world deliverable project during the **Google 5-Day AI Intensive
 - [Acknowledgment](#-acknowledgment)
 - [Contact](#-contact)
 - [Support](#-support)
-
----
-
-## ✨ Features
-- Multiple summarization modes: **Short / Medium / Long / Bullets / Simple / Professional**
-- **Automated Keyword Extraction**
-- **Sentiment Analysis** (Positive / Neutral / Negative)
-- **One-Line Takeaway**
-- **Formatted PDF Export** (Layout + headings + watermark)
-- **CSV Export**
-- Fully built in **Kaggle / Jupyter Notebook** using Python & ReportLab
 
 ---
 
