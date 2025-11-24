@@ -46,7 +46,7 @@ Designed & implemented as my first AI project after completing **Google 5-Day AI
 
 ---
 
-##🚀 Installation
+## 🚀 Installation
 # Clone the repository
 git clone https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent.git
 
@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ---
 
-##🧠 Usage
+## 🧠 Usage
 # Run the notebook
 jupyter notebook capstone-project.ipynb
 
