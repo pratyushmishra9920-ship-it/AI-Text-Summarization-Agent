@@ -1,5 +1,9 @@
 # 🚀 AI Text Summarization Agent | Gemini 2.5 Flash
 
+<p align="center">
+  <img src="./Banner.png" alt="AI Text Summarization Agent Banner" />
+</p>
+
 [![GitHub stars](https://img.shields.io/github/stars/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent?style=social)](https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent/stargazers)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyushmishra9920-ship-it.AI-Text-Summarization-Agent)
 
