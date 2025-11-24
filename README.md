@@ -1,5 +1,8 @@
 # AI Text Summarization Agent
 
+[![GitHub stars](https://img.shields.io/github/stars/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent?style=social)](https://github.com/pratyushmishra9920-ship-it/AI-Text-Summarization-Agent/stargazers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyushmishra9920-ship-it.AI-Text-Summarization-Agent)
+
 ![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
 ![Text Summarization](https://img.shields.io/badge/Text--Summarization-green?style=for-the-badge)
