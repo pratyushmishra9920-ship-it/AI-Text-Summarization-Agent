@@ -104,8 +104,8 @@ Created as part of **Google AI 5-Day Intensive Capstone Program**, driven by my 
 
 ## 📬 Contact
 **Pratyush Mishra**  
-Kaggle: https://www.kaggle.com/pratyushmishradev
 
+Kaggle: https://www.kaggle.com/pratyushmishradev
 LinkedIn: https://www.linkedin.com/in/pratyush-mishra-758a0339a/
 
 ---
